@@ -1,0 +1,56 @@
+body{
+   color: hsl(160, 100%, 75%)
+   backgrounblack
+}
+   header {
+      border-bottom: solid 2px rgb(42, 122, 228);
+      padding: 20px;
+      font-size: 32px;
+      color: rgb(42, 122, 228);
+      background
+  body {
+   color: white;
+   background: black;
+   margin: 0px;
+}
+
+header {
+   border-bottom: solid 2px rgb(42, 122, 228);
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(42, 122, 228);
+}
+
+section {
+   background: rgb(184,156,213);
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+}
+
+.chamada-texto {
+   margin-right: 5%;
+}
+}
+img {
+   height: 200px;
+ }
+
+ section {
+   background: rgb(7, 153, 155);
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+ }
+ 
+ 
+ .portfolio img {
+   opacity: 0.5;
+}
+.portfolio img:hover {
+   opacity: 1.0;
+}
+
+
